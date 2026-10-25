@@ -1,0 +1,28 @@
+{
+  "name": "@lucacelli/nextjs-react-cloudflare-cdn-tech-stack-detector",
+  "version": "2.0.0",
+  "description": "Detect Next.js, React, Vue, Nuxt, Astro, Cloudflare, AWS CloudFront, Fastly, and Vercel edge headers across any domain list via passive HTTP/DNS inspection.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "nextjs-react-cloudflare-cdn-tech-stack-detector": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js --demo"
+  },
+  "keywords": [
+    "tech-stack",
+    "wappalyzer-alternative",
+    "nextjs",
+    "cloudflare",
+    "cdn-detector",
+    "http-headers",
+    "web-architecture",
+    "devops-cli",
+    "domain-diagnostics",
+    "nodejs"
+  ],
+  "author": "Lucacelli Data Engineering",
+  "license": "MIT"
+}
